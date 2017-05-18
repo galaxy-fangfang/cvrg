@@ -24,6 +24,6 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 2. Fully Convolutional Networks for Semantic Segmentation [paper](https://people.eecs.berkeley.edu/%7Ejonlong/long_shelhamer_fcn.pdf) [caffe](https://github.com/shelhamer/fcn.berkeleyvision.org)
 3. [[read]()] Mask R-CNN [paper](https://arxiv.org/pdf/1703.06870.pdf) [tf](https://github.com/CharlesShang/FastMaskRCNN)
 4. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [paper](https://arxiv.org/pdf/1606.00915.pdf) [pytorch](https://github.com/isht7/pytorch-deeplab-resnet)
-
+5. FullyConvolutionalInstance-awareSemanticSegmentation [paper](https://arxiv.org/abs/1611.07709)[code](https://github.com/msracver/FCIS)
 ## Others
 1. Unsupervised Learning of Depth and Ego-Motion from Video [paper](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf) [github](https://github.com/tinghuiz/SfMLearner)
